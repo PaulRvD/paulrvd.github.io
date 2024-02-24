@@ -1,0 +1,19 @@
+---
+layout: page
+title: Research
+subtitle: 
+permalink: /research/
+image: /assets/img/Arbeitsfoto.jpg
+description: about
+hero_image: /assets/img/KHinIce.jpg
+hero_height: is-large
+lang: en
+---
+
+Currently, I am working on Sea Spray Icing as a PhD-Student at [NTNU](https://www.ntnu.no/kt) in the Project Microspray.
+
+I am interested in the freezing process of Sea Spray under various conditions, as well as adhesion, and the microstructure of the resulting ice. Most of the research for this is conducted in the Ice Laboratory at NTNU, but results from research expeditions to the Arctic and electron accelerators also contribute.
+
+Before my PhD thesis, my focus was on microstructure investigations using X-ray and electron diffraction.
+
+A list of my publications (including theses) can be found under [Publications](/research/public). You can also get insights into current research questions under [Current Projects](/research/currentproj).

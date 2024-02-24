@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Language-Specific Page Links Example</title>
+</head>
+<body>
+    <h1>Language-Specific Page Links</h1>
+
+    <ul id="pageList">
+        <!-- The list of language-specific page links will be added here dynamically -->
+    </ul>
+
+    <script>
+        // Specify the common path for your pages
+        var commonPath = "/freetime/cooking/";
+
+        // Specify the number of pages you want to link
+        var numberOfPages = 5;
+
+        // Specify the languages you want to include
+        var includedLanguages = ["en", "de"];
+
+        // Get the reference to the <ul> element
+        var pageList = document.getElementById("pageList");
+
+        // Generate links dynamically
+        for (var i = 1; i <= numberOfPages; i++) {
+            // Simulating different languages for demonstration purposes
+            var pageLanguage = (i % 2 === 0) ? "en" : "de";
+
+            // Check if the page's language is included
+            if (includedLanguages.includes(pageLanguage)) {
+                var pageLink = document.createElement("a");
+                pageLink.href = commonPath + i;
+                pageLink.textContent = "Page " + i + " (" + pageLanguage + ")";
+
+                var listItem = document.createElement("li");
+                listItem.appendChild(pageLink);
+
+                pageList.appendChild(listItem);
+            }
+        }
+    </script>
+</body>
+</html>

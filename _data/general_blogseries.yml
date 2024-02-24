@@ -1,0 +1,12 @@
+title: General Posts
+description: A series of blog posts informing about things added to the website
+sections:
+  - label: Getting started
+    items:
+      - title: Starting to post
+      - title: Github
+  - label: Another section
+    items:
+      - title: No idea yet
+      
+

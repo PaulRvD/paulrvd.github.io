@@ -1,0 +1,21 @@
+style: is-light
+items:
+  - title: Forschung
+    subtitle: 
+    icon: fa-flask
+    description: >
+        Relevante Veröffentlichungen und Projekte
+    call_to_action_name: Lerne mehr
+    call_to_action_link: /research/de  
+  - title: Freizeit
+    description: >
+        Hockey, Radfahren und Kochen 
+    icon: fa-bicycle
+    call_to_action_name: Erfahre mehr
+    call_to_action_link: /freetime/de   
+  - title: Mehrsprachig
+    description: in englisch, deutsch und norwegisch 
+    icon: fa-comments
+    call_to_action_name: Verstehe mehr
+    call_to_action_link: 
+    

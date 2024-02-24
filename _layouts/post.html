@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<div class="content">
+
+    <p>Published: {{ page.date | date: "%b %-d, %Y" }} by {{ page.author }}</p>
+
+
+
+    {{ content }}
+<div class="tags">
+    {% for tag in page.tags %}
+      {% include tag.html tag=tag %}
+    {% endfor %}
+</div>	
+	    {% if page.series %}
+		Find posts that are similar to this post here:
+        {% include series.html %}
+    {% endif %}
+</div>
+
+
+
+{% if site.disqus.shortname %}
+  {% include disqus.html %}
+{% endif %}

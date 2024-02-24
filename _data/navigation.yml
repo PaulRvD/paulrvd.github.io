@@ -1,0 +1,97 @@
+ 
+    - name: Research
+      link: research
+      lang: "en"
+      dropdown:
+        - name: Publications
+          link: research/public  
+        - name: Current Projects
+          link: research/currentproj
+    - name: Freetime
+      link: freetime
+      lang: "en"
+      dropdown: 
+        - name: Hockey
+          link: freetime/hockey
+        - name: Bikepacking
+          link: freetime/bikepck
+        - name: Recepies
+          link: freetime/cooking
+    - name: About
+      link: about
+      lang: "en"     
+    - name: Language
+      lang: "en"
+      dropdown:
+        - name: German
+          link: /de/
+        - name: Norwegian
+          link: /no/  
+
+    - name: Forschung
+      link: research/de
+      lang: "de"
+      dropdown:
+         - name: Veröffentlichungen
+           link: research/public/de
+           lang: "de"
+         - name: aktuelle Projekte
+           link: research/currentproj/de
+           lang: "de"
+    - name: Freizeit
+      link: freetime/de
+      lang: "de"
+      dropdown: 
+        - name: Feldhockey
+          link: freetime/hockey/de
+          lang: "de"
+        - name: Bikepacking
+          link: freetime/bikepck/de
+          lang: "de"
+        - name: Rezepte
+          link: freetime/cooking/de
+          lang: "de"
+    - name: Über
+      link: about/de/
+      lang: "de"  
+    - name: Sprache
+      lang: "de"
+      dropdown:
+        - name: englisch
+          link: /
+        - name: norwegisch
+          link: /no/ 
+          
+    - name: Forskning
+      link: research/no
+      lang: "norsk"
+      dropdown:
+         - name: tidligere
+           link: research/public/no
+           lang: "norsk"
+         - name: nå
+           link: research/currentproj/no
+           lang: "norsk"
+    - name: Fritid
+      link: freetime/no
+      lang: "norsk"
+      dropdown: 
+        - name: Landhockey
+          link: freetime/hockey/no
+          lang: "norsk"
+        - name: Bikepacking
+          link: freetime/bikepck/no
+          lang: "norsk"
+        - name: matlaging
+          link: freetime/cooking/no
+          lang: "norsk"
+    - name: Om
+      link: about/no
+      lang: "norsk"  
+    - name: Sprak
+      lang: "norsk"
+      dropdown:
+        - name: engelsk
+          link: ./
+        - name: tysk
+          link: ./de/       
