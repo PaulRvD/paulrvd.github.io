@@ -22,7 +22,7 @@ data_dir            : _data
 includes_dir        : _includes
 
 
-theme: bulma-clean-theme
+remote_theme: bulma-clean-theme
 
 # Handling Reading
 safe                : false
