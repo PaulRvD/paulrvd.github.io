@@ -3,6 +3,13 @@ GEM
   specs:
     addressable (2.8.5)
       public_suffix (>= 2.0.2, < 6.0)
+    bulma-clean-theme (0.13.3)
+      jekyll (>= 3.9, < 5.0)
+      jekyll-feed (~> 0.15)
+      jekyll-paginate (~> 1.1)
+      jekyll-seo-tag (~> 2.7)
+      jekyll-sitemap (~> 1.4)
+      kramdown-parser-gfm (~> 1.1)
     colorator (1.1.0)
     concurrent-ruby (1.2.2)
     em-websocket (0.5.3)
@@ -71,6 +78,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  bulma-clean-theme
   jekyll-feed (~> 0.6)
   jekyll-paginate
   jekyll-redirect-from
