@@ -6,7 +6,7 @@ permalink: /freetime/bickpck/de
 image: /assets/img/Arbeitsfoto.jpg
 description: about
 hero_height: is-medium
-hero_image: /assets/img/Cyclo.png
+hero_image: /assets/img/Cyclo.jpg
 hero_darken: true 
 lang: de
 ---
