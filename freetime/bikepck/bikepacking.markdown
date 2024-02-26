@@ -5,8 +5,9 @@ subtitle: or just fun rides
 permalink: /freetime/bikepck
 image: /assets/img/Arbeitsfoto.jpg
 description: about
+hero_height: is-large
 hero_image: /assets/img/Cyclo.jpg
-hero: huge
+hero_darken: true 
 lang: en
 ---
 I like to go on trips with my bike, these idealy are a multi-day trips.
