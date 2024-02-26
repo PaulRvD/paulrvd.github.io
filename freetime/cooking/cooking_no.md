@@ -9,5 +9,6 @@ hero_image: /assets/img/taco.jpg
 hero_height: is-halfheight
 lang: norsk
 ---
-Dette sidia kunne inholde ting om matlaging, men er ikke aktuelt enda
+Dette sidia kunne inholde ting om matlaging, men er ikke aktuelt enda. 
+Bruk den tyske versionen for oppskriftene.
 

@@ -29,7 +29,3 @@ If you actually can read that text, that means I at some point felt comfortable 
 I guess this website is for everyone who reads english, german or norwegian and happens to want to know something about me.  
 **But** I made this website for myself to have a fun side project. If someone likes what I share here that is a bonus for me.
 
-<figure>
-<img src="{{page.image}}" alt="A picture of me" width="200" style="vertical-align"  />
-<figcaption>Paul Rübsamen-v. Döhren</figcaption>
-</figure>
