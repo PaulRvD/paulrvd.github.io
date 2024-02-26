@@ -10,8 +10,7 @@ hero_height: is-halfheight
 callouts: home_callouts_no
 lang: norsk
 ---
+#Hei
 
-
-<p class="intro"> Hei!Hei!</p>
-
-<p> Velkommen på hjemmesiden min!</p>
+Jeg er Paul og kommer fra tyskland. 
+I dag er jeg PhD-Student ved [NTNU](https://www.ntnu.edu/employees/paul.j.r.von.dohren). 
