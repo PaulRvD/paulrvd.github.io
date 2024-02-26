@@ -5,8 +5,9 @@ subtitle: dette nettstedet
 permalink: /about/no
 image: /assets/img/Arbeitsfoto.jpg
 description: about
-hero_image: /assets/img/Laptop_KH.jpg
-hero: wide
+hero_height: is-large
+hero_image: /assets/img/Laptopkh.jpg
+hero_darken: true 
 lang: norsk
 ---
 

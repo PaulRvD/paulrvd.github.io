@@ -5,8 +5,9 @@ subtitle: diese Website
 permalink: /about/de
 image: /assets/img/Arbeitsfoto.jpg
 description: about
-hero_image: /assets/img/Laptop_KH.jpg
-hero: wide
+hero_height: is-large
+hero_image: /assets/img/Laptopkh.jpg
+hero_darken: true 
 lang: de
 ---
 
