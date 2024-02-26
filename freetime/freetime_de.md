@@ -7,7 +7,6 @@ image:
 description: about
 hero_image: /assets/img/Bymarka.jpg
 hero_height: is-large
-gallery: freetime_gallery
 lang: de
 ---
 Ein kleiner Einblick in Dinge mit denen ich mich in meiner Freizeit beschöftige. 
