@@ -5,8 +5,9 @@ subtitle: this website
 permalink: /about/
 image: /assets/img/Arbeitsfoto.jpg
 description: about
+hero_height: is-large
 hero_image: /assets/img/Laptop_KH.jpg
-hero: wide
+hero_darken: true 
 lang: en
 ---
 
