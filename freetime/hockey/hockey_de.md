@@ -5,8 +5,8 @@ subtitle: mit Trondheim Landhockeyklubb
 permalink: /freetime/hockey/de
 image: /assets/img/Arbeitsfoto.jpg
 description: about
+hero_height: is-medium
 hero_image: /assets/img/team.jpg
-hero: huge
 hero_darken: true
 lang: de
 ---

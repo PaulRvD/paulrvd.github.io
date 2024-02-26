@@ -5,8 +5,8 @@ subtitle: playing with the Trolls
 permalink: /freetime/hockey/training
 image: /assets/img/Arbeitsfoto.jpg
 description: about training schedule
+hero_height: is-small
 hero_image: /assets/img/team.jpg
-hero: huge
 hero_darken: true
 lang: en
 ---

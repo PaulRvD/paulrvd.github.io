@@ -3,10 +3,10 @@ layout: page2
 title: Freizeit
 subtitle: 
 permalink: /freetime/de
-image: /assets/img/Arbeitsfoto.jpg
+image: 
 description: about
-hero_image: 
-hero_height: small
+hero_image: /assets/img/Bymarka.jpg
+hero_height: is-large
 lang: de
 ---
 Ein kleiner Einblick in Dinge mit denen ich mich in meiner Freizeit beschöftige. 

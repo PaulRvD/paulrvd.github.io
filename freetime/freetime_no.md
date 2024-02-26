@@ -3,10 +3,10 @@ layout: page2
 title: Fritidia 
 subtitle: 
 permalink: /freetime/no
-image: /assets/img/Arbeitsfoto.jpg
+image: 
 description: freetime
-hero_image: 
-hero_height: small
+hero_image: /assets/img/Bymarka.jpg
+hero_height: is-large
 lang: norsk
 ---
 Her kan du få innsikt i hva jeg gjøre i fritida min
