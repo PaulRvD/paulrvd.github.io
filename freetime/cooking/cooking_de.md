@@ -5,8 +5,8 @@ subtitle: Der Versuch leckeres Essen zu kochen
 permalink: /freetime/cooking/de
 image: /assets/img/Arbeitsfoto.jpg
 description: Recepies and other food related stuff
-hero_image: /assets/img/momo.jpg
-hero_height: is_small
+hero_image: /assets/img/grilling.jpeg
+hero_height: is_medium
 lang: de
 ---
 Ich bin definitiv kein Professioneller koch und möchte das hier zum jetzigen Zeitpunkt auch nicht in einen Foodblog ausarten lassen, aber dachte es wäre interessant ein paar einfache Rezepte zu teilen. 

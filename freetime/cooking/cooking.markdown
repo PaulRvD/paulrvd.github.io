@@ -5,8 +5,8 @@ subtitle: trying to make good food
 permalink: /freetime/cooking
 image: /assets/img/Arbeitsfoto.jpg
 description: Recepies and other food related stuff
-hero_image: /assets/img/pasta.jpg
-hero_height: is_small
+hero_image: /assets/img/momo2.jpg
+hero_height: is_medium
 lang: en
 ---
 # Introduction
