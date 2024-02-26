@@ -11,14 +11,14 @@ lang: en
 ---
 # Microspray
 
-In Microspray we aim to gain knowledge over the relation between microstructure and adhesion of sea spray icing.  
+In the Microspray project, our goal is to understand the relation between microstructure and adhesion of sea spray icing.  
 
 ## Spray Icing
-We were building a setup that allows to grow spray ice in a tank that is situated in a coldlab. In addition we collected samples from a buoy in Trondheimsfjorden and the port in Longyearbyen.
+We have developed a setup that allows us to grow spray ice in a tank situated in a coldlab. Additionally, we collected samples from a buoy in Trondheimsfjorden and the port in Longyearbyen.
 
 ### Adhesion
-For testing the adhesion of spray ice we designed an in-situ adhesion test that can be used in the coldlab.
+To test the adhesion of spray ice, we designed an in-situ adhesion test specifically for use in the spray icing setup.
 
 ### Microstructure
-The microstructure is tested using micro-CT and synchrotron radiation. 
+Microstructure analysis is conducted using micro-CT and synchrotron radiation. 
 

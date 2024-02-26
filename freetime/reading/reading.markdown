@@ -8,13 +8,13 @@ description: about
 lang: en
 ---
 
-Just a random list of books I like, maybe you like reading them too.
+Just a random list of books I like; maybe you like reading them too.
 This list is definitly not complete :)
 
 
-*Einfach eine Liste von Büchern die auch anderen gefallen könnten, ich werde definitiv was vergessen haben :)*
+*Einfach eine Liste von Büchern, die auch anderen gefallen könnten. Ich werde definitiv was vergessen haben :)*
 
-__Bare en tilfeldig liste av bøker jeg liker, kanskje du også liker å lese dem.
+__Bare en tilfeldig liste av bøker jeg liker. Kanskje du også liker å lese dem.
 Denne listen er definitivt ikke komplett :)__
 
 
@@ -23,4 +23,4 @@ Denne listen er definitivt ikke komplett :)__
 - Mistborn
 - Talus
 
-might be extended if I find time to write things down until then also check out my (not updated [goodreads](https://www.goodreads.com/user/show/142422445-paul) profile) 
+This list might be extended if I find time to write things down. Until then, you can also check out my (not updated) [goodreads](https://www.goodreads.com/user/show/142422445-paul) profile.

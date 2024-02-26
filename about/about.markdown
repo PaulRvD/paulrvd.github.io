@@ -12,20 +12,24 @@ lang: en
 ---
 
 
-# Why I made this website?
+# Why I Made This Website
 
-I never had a project like this in which I can just use skills that I do not need in my everyday live that still challanges me to try something new.
-Writing a website was something that could be an interesting challange. So I started writing a website for my hockey club, and soon figured that a website
-for a norwegian club that wants to atract both locals and exchange students should have a multilingual setup.
-To try out how a multilingual setup works I started writing about something I know quite well and can describe in several languages, myself. This test over time developed in what it is today, a mix of CV and blog rarely gets updated. 
-	
-## How I made the website?
+I've never had a project like this, where I can utilize skills not needed in my everyday life, yet it challenges me to try something new. 
+Creating a website seemed like an interesting challenge, so I began by developing one for my hockey club. Soon, I realized that a website 
+for a Norwegian club aiming to attract both locals and exchange students should have a multilingual setup.
 
-A college and friend suggested to use [jekyll](https://jekyllrb.com/docs/) and github pagess to create a website. So I had that somewhere in the bag of my head when I first thought about trying to make one.
-Started to work with it and over the years had some very long nights in which I found random motivation to work on this, to then abandon it for the next few months before coming back to it. 
-If you actually can read that text, that means I at some point felt comfortable enough to upload it. Maybe that leads to me actually spending time on it more consistantly.  
+To test how a multilingual setup works, I started writing about something I know well and can describe in several languages: myself.
+ This test gradually evolved into what it is today—a mix of a CV and a blog that rarely gets updated.
 
-## For whom?
-I guess this website is for everyone who reads english, german or norwegian and happens to want to know something about me.  
-**But** I made this website for myself to have a fun side project. If someone likes what I share here that is a bonus for me.
+## How I Made the Website
+
+A colleague and friend suggested using [Jekyll](https://jekyllrb.com/docs/) and GitHub Pages to create a website. This idea lingered in the back
+ of my mind when I first considered making one. I started working with it and, over the years, had some very long nights where random bursts of 
+ motivation led me to work on the website, only to abandon it for the next few months before returning to it. If you're reading this text, it means
+ I eventually felt comfortable enough to upload it. Perhaps that will lead to more consistent dedication.
+
+## For Whom?
+
+I suppose this website is for anyone who reads English, German, or Norwegian and happens to want to know something about me. **But**, I created this website
+ for myself as a fun side project. If someone enjoys what I share here, that's a bonus for me.
 

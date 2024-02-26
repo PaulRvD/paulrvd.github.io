@@ -14,18 +14,18 @@ lang: en
 # Hockey in Trondheim
 Today adults have the great opportunity to play fieldhockey with Trondheim Landhockeyklubb.
 But that has not always been the case, when I moved to Trondheim in November 2020, there was a website
-of a hockey club, but it turned out the club dessolved itself a few years prior. In spring 2021
-some people intrested in hockey came together to just train on Eberg Kunstgress for the first time. 
-Within half a year that group grew to 10-12 regular players before funding TLK in Autumm 2021.
+of a hockey club, but it turned out the club dissolved itself a few years prior. In spring 2021
+some people interested in hockey came together to just train on Eberg Kunstgress for the first time. 
+Within half a year that group grew to 10-12 regular players before funding TLK in Autumn 2021.
 
 ## [Trondheim Landhockeyklubb](https://www.facebook.com/trondheimlandhockey/about_details)
 Most info about the club can be found on the clubs facebook page. So I just add how it is to play with the Trolls. 
 The name Trolls for the players is the relict from our original plan to call the club Trondheim Trolls, before setteling for the more reasonable name it has today. 
 And discribes our original group of international players with all levels of experience that just played for fun quite well. 
-While we lost a lot of players in the last years, due to them only staying here as exchange students, we managed to maintain a welcoming athmosphere in the team and develop the level of play quite a bit in the last years.
+While we lost many players in recent years, due to them only staying here as exchange students, we managed to maintain a welcoming athmosphere in the team and develop the level of play quite a bit in the last years.
 Until today we have alumni regularly joining us for tournaments or matches in Oslo.    
 
-During all of the history of TLK I have been coaching the team, in periods as assistant coach, but most of the time as headcoach. While I haven't had a lot of experience in the beginning, I took coaching courses provided by EHF and the Norwegian federation, and feel quite confident in that role now. 
+Throughout TLK's history, I have been coaching the team, in periods as assistant coach, but most of the time as headcoach. While I haven't had a lot of experience in the beginning, I took coaching courses provided by EHF and the Norwegian federation, and feel quite confident in that role now. 
 
 ### Training @ TLK
 
@@ -53,12 +53,12 @@ These clubs make out our closest partners but also are...
 I was surprised by the level of norwegian hockey when I first came here. 
 It seems that most teams are at a level of better german Oberliga teams.
 And that even tho there were only a few clubs competing, all of them in Oslo. 
-To start competing with a mixed team of mostly new players, was defenetly a challange, but provided a good chanche for the players to grow, especially with the Teams in Oslo providing a very welcoming athmosphere. 
+To start competing with a mixed team of mostly new players, was defenetly a challange, but provided a good chance for the players to grow, especially with the Teams in Oslo providing a very welcoming athmosphere. 
 
 
 
 ## [the federation](https://bandyforbundet.no/landhockey/)
-Fieldhockey in Norway is part of the [Bandyforbundet](https://bandyforbundet.no) an umbrella federation for floorball, bandy (for the non norwegians: It reminds of ice hockey but is played with a ball, bigger goals and bigger pitch) and field hockey.
+Fieldhockey in Norway is part of the [Bandyforbundet](https://bandyforbundet.no), an umbrella federation for floorball, bandy (for the non norwegians: It reminds of ice hockey but is played with a ball, bigger goals and bigger pitch) and field hockey.
 With the fieldhockey section being a small part of the federation in which most positions are filled by volunteers.
 So that going talking to the umpires about what they could improve after watching a game, can get you involved in the umpire committee as it happend to me, despite only umpring when it was needed in Germany before.
 

@@ -10,8 +10,8 @@ hero_height: is-halfheight
 lang: en
 ---
 # Introduction
-I am by far no professional chef, nor do I intend to create a foodblog. But I enjoy cooking and thought it is nice to create a page for some of the recepies I like. 
-The recepies aren't listed in any particular order for now, but I put together a list of recepies that are available in english as well as provide links to recepies that are only available in one of the other languages at the moment.
+I am by far no professional chef, nor do I intend to create a foodblog. However, I enjoy cooking and thought it is nice to create a page for some of the recepies I like. 
+The recepies aren't listed in any particular order for now, but I've put together a list of recepies that are available in English. I've also as provided links to recepies that are only available in one of the other languages at the moment.
 ### English Recepies
  - [Empandas](/freetime/cooking/empanadas) - a recepie form my dads childhood
  - [Pastel de Choclo](/freetime/cooking/pastel-de-choclo) - also from my dads childhood
