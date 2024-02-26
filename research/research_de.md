@@ -3,10 +3,11 @@ layout: page
 title: Forschung
 subtitle: 
 permalink: /research/de/
-image: /assets/img/Arbeitsfoto.jpg
-description: about
-hero_image: /assets/img/KHinIce.jpg
-hero: huge
+image: 
+description: Informationen über meine Forschung
+hero_height: is-halfheight
+hero_image: /assets/img/KHinIce1.jpg
+hero_darken: true
 lang: de
 ---
 Momentan beschäftige ich mich mit gefrierender Gischt oder geläufiger "Sea Spray Icing". 

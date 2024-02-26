@@ -3,9 +3,9 @@ layout: page
 title: Research
 subtitle: 
 permalink: /research/
-image: /assets/img/KHinIce.jpg
-description: about
-hero_height: is-large
+image: 
+description: some small input about my research
+hero_height: is-halfheight
 hero_image: /assets/img/KHinIce1.jpg
 hero_darken: true
 lang: en

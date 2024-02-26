@@ -3,10 +3,11 @@ layout: page
 title: Forskning
 subtitle: 
 permalink: /research/no/
-image: /assets/img/Arbeitsfoto.jpg
-description: about
-hero_image: /assets/img/KHinIce.jpg
-hero: huge
+image: 
+description: Informasjon om forskningen min
+hero_height: is-halfheight
+hero_image: /assets/img/KHinIce1.jpg
+hero_darken: true
 lang: norsk
 ---
 For øyeblikket arbeider jeg med frysende sjøsprut, også kjent som "Sea Spray Icing."
