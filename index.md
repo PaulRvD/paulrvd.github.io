@@ -29,3 +29,4 @@ Turns out the interdisciplinary, research driven material science program in Gö
 ## What I do today
 
 In 2020, I moved to Norway to persue a PhD about [sea spray ice](/research). A lot of my [freetime](/freetime) I spend with fieldhockey or in nature. 
+For more info feel free to ask. 
