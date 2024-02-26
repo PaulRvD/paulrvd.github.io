@@ -3,10 +3,10 @@ layout: page
 title: Research
 subtitle: Publications
 permalink: /research/public
-image: /assets/img/Arbeitsfoto.jpg
-description: about
-hero_image: /assets/img/KHinIce.jpg
-hero: huge
+image: 
+description: list of publications
+hero_height: is-halfheight
+hero_image: /assets/img/TransportKH.jpg
 lang: en
 ---
 ## Articles

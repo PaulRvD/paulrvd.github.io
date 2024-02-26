@@ -5,8 +5,8 @@ subtitle:
 permalink: /research/no/
 image: 
 description: Informasjon om forskningen min
-hero_height: is-halfheight
-hero_image: /assets/img/KHinIce1.jpg
+hero_height: is-large
+hero_image: /assets/img/khinice.jpg
 hero_darken: true
 lang: norsk
 ---
