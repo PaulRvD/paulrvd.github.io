@@ -2,12 +2,12 @@
 layout: page
 title: Research
 subtitle: 
-permalink: /research/currentproj
+permalink: /research/currentproj/de
 image: /assets/img/Arbeitsfoto.jpg
 description: about
 hero_image: /assets/img/KHinIce.jpg
 hero: huge
-lang: en
+lang: de
 ---
 # Microspray
 
@@ -21,4 +21,3 @@ For testing the adhesion of spray ice we designed an in-situ adhesion test that 
 
 ### Microstructure
 The microstructure is tested using micro-CT and synchrotron radiation. 
-

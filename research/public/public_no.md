@@ -9,11 +9,11 @@ hero_image: /assets/img/khinice.jpg
 hero: huge
 lang: norsk
 ---
-## Articles
+## Avhandlinger
 * ADHESION OF LABORATORY GROWN SEA SPRAY ICE, POAC2023
 
 
-## Degree projects
+## Oppgaver
 
 * [Development of bio-based straps-
 Adaptation and modification of suitable testing methods and

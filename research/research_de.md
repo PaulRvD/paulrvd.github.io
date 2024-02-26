@@ -11,7 +11,6 @@ hero_darken: true
 lang: de
 ---
 Momentan beschäftige ich mich mit gefrierender Gischt oder geläufiger "Sea Spray Icing". 
-
 Dabei interessiert mich der Gefrierprozess in unterschiedlichen Bedingungen, die Adhesion und die Mikrosturktur des entstehenden Eises. Der großteil der Forschung hierfür findet im Ice-Labor der NTNU statt, allerdings fließen auch Ergebnisse von Forschungsreisen in die Barentsee und zu Elektronenbeschleunigern ein.
 
 Vor meiner Doktorarbeit lag mein Fokus auf Mikrostrukturuntersuchungen mithilfe von Röntgen und Elektronenbeugung. 
