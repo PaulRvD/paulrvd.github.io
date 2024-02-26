@@ -5,7 +5,7 @@ subtitle: trying to make good food
 permalink: /freetime/cooking/no
 image: /assets/img/Arbeitsfoto.jpg
 description: Recepies and other food related stuff
-hero_image: /assets/img/team.jpg
+hero_image: /assets/img/momo2.jpg
 hero: huge
 lang: norsk
 ---

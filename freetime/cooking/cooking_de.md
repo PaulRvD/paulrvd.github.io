@@ -5,7 +5,7 @@ subtitle: Der Versuch leckeres Essen zu kochen
 permalink: /freetime/cooking/de
 image: /assets/img/Arbeitsfoto.jpg
 description: Recepies and other food related stuff
-hero_image: /assets/img/pasta.png
+hero_image: /assets/img/momo.jpg
 hero_height: is_small
 lang: de
 ---
