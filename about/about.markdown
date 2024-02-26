@@ -6,7 +6,7 @@ permalink: /about/
 image: /assets/img/Arbeitsfoto.jpg
 description: about
 hero_height: is-large
-hero_image: /assets/img/Laptop_kh.jpg
+hero_image: /assets/img/Laptopkh.jpg
 hero_darken: true 
 lang: en
 ---
