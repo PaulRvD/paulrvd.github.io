@@ -5,7 +5,7 @@ subtitle: or just fun rides
 permalink: /freetime/bikepck
 image: /assets/img/Arbeitsfoto.jpg
 description: about
-hero_height: is-large
+hero_height: is-medium
 hero_image: /assets/img/Cyclo.jpg
 hero_darken: true 
 lang: en
