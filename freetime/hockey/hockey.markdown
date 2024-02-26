@@ -5,7 +5,7 @@ subtitle: playing with the Trolls
 permalink: /freetime/hockey
 image: 
 description: A part about fieldhockey in Norway
-hero_height: is-medium
+hero_height: is-large
 hero_image: /assets/img/team.jpg
 hero_darken: true
 lang: en

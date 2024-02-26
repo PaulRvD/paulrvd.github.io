@@ -5,8 +5,8 @@ subtitle: Publications
 permalink: /research/public
 image: 
 description: list of publications
-hero_height: is-halfheight
-hero_image: /assets/img/TransportKH.jpg
+hero_height: is-medium
+hero_image: /assets/img/Transportkh.jpg
 lang: en
 ---
 ## Articles

@@ -5,13 +5,13 @@ subtitle: mit Trondheim Landhockeyklubb
 permalink: /freetime/hockey/de
 image: /assets/img/Arbeitsfoto.jpg
 description: about
-hero_height: is-medium
+hero_height: is-large
 hero_image: /assets/img/team.jpg
 hero_darken: true
 lang: de
 ---
 # Hockey in Norwegen
-Wenn ich in Norwegen jemandem erzähle, dass ch Hockey spiele ist die erste Reaktion: 
+Wenn ich in Norwegen jemandem erzähle, dass ich Hockey spiele ist die erste Reaktion: 
 
 "Oh cool, Ice Hockey"
 
