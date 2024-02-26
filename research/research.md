@@ -6,7 +6,7 @@ permalink: /research/
 image: /assets/img/KHinIce.jpg
 description: about
 hero_height: is-large
-hero_image: /assets/img/KHinIce.jpg
+hero_image: /assets/img/KHinIce1.jpg
 hero_darken: true
 lang: en
 ---
