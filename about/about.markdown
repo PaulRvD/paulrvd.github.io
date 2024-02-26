@@ -3,7 +3,7 @@ layout: page
 title: About
 subtitle: this website
 permalink: /about/
-image: /assets/img/Arbeitsfoto.jpg
+image: /assets/img/me.jpg
 description: about
 hero_height: is-large
 hero_image: /assets/img/Laptopkh.jpg
