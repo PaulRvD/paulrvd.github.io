@@ -6,7 +6,7 @@ permalink: /freetime/cooking/de
 image: /assets/img/Arbeitsfoto.jpg
 description: Recepies and other food related stuff
 hero_image: /assets/img/grilling.jpeg
-hero_height: is_large
+hero_height: is-halfheight
 lang: de
 ---
 Ich bin definitiv kein Professioneller koch und möchte das hier zum jetzigen Zeitpunkt auch nicht in einen Foodblog ausarten lassen, aber dachte es wäre interessant ein paar einfache Rezepte zu teilen. 

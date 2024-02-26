@@ -5,7 +5,7 @@ subtitle: og små turer
 permalink: /freetime/bikepck/no
 image: /assets/img/Arbeitsfoto.jpg
 description: freetime
-hero_image: /assets/img/Cyclo.jpg
+hero_image: /assets/img/Bike.jpg
 hero: huge
 lang: norsk
 ---
