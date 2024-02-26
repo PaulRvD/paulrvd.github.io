@@ -24,9 +24,9 @@
       lang: "en"
       dropdown:
         - name: German
-          link: /de/
+          link: /de
         - name: Norwegian
-          link: /no/  
+          link: /no  
 
     - name: Forschung
       link: research/de
@@ -60,7 +60,7 @@
         - name: englisch
           link: /
         - name: norwegisch
-          link: /no/ 
+          link: /no
           
     - name: Forskning
       link: research/no
@@ -94,4 +94,4 @@
         - name: engelsk
           link: ./
         - name: tysk
-          link: ./de/       
+          link: ./de       

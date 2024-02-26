@@ -21,7 +21,7 @@ To try out how a multilingual setup works I started writing about something I kn
 	
 ## How I made the website?
 
-A college and friend suggested to use [jekyll](https://jekyllrb.com/docs/) and github places to create a website. So I had that somewhere in the bag of my head when I first thought about trying to make one.
+A college and friend suggested to use [jekyll](https://jekyllrb.com/docs/) and github pagess to create a website. So I had that somewhere in the bag of my head when I first thought about trying to make one.
 Started to work with it and over the years had some very long nights in which I found random motivation to work on this, to then abandon it for the next few months before coming back to it. 
 If you actually can read that text, that means I at some point felt comfortable enough to upload it. Maybe that leads to me actually spending time on it more consistantly.  
 
