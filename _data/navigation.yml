@@ -52,7 +52,7 @@
           link: freetime/cooking/de
           lang: "de"
     - name: Über
-      link: about/de/
+      link: about/de
       lang: "de"  
     - name: Sprache
       lang: "de"
