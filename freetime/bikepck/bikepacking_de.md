@@ -2,7 +2,7 @@
 layout: page2
 title: Radreisen
 subtitle: oder auch kurze Trips
-permalink: /freetime/bickpck/de
+permalink: /freetime/bikepck/de
 image: /assets/img/Arbeitsfoto.jpg
 description: about
 hero_height: is-medium
