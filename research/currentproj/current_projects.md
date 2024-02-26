@@ -5,7 +5,7 @@ subtitle:
 permalink: /research/currentproj
 image: /assets/img/Arbeitsfoto.jpg
 description: about
-hero_image: /assets/img/KHinIce.jpg
+hero_image: /a/assets/img/khinice.jpg
 hero: huge
 lang: en
 ---

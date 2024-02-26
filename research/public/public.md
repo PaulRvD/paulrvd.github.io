@@ -6,7 +6,7 @@ permalink: /research/public
 image: 
 description: list of publications
 hero_height: is-medium
-hero_image: /assets/img/Transportkh.jpg
+hero_image: /assets/img/khinice.jpg
 lang: en
 ---
 ## Articles
