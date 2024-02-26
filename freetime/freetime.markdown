@@ -8,9 +8,7 @@ hero_image: /assets/img/Bymarka.jpg
 hero_height: is-large
 lang: en
 ---
-
-
-Here you can get some inside in things I like to do when I am not working.
+## Here you can get some inside in things I like to do when I am not working.
 
 
 Just click on of the pictures to get more info :) 
