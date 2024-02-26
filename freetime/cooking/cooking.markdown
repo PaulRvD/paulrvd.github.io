@@ -6,7 +6,7 @@ permalink: /freetime/cooking
 image: /assets/img/Arbeitsfoto.jpg
 description: Recepies and other food related stuff
 hero_image: /assets/img/momo2.jpg
-hero_height: is_medium
+hero_height: is_large
 lang: en
 ---
 # Introduction
