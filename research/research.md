@@ -3,7 +3,7 @@ layout: page
 title: Research
 subtitle: 
 permalink: /research/
-image: /assets/img/Arbeitsfoto.jpg
+image: /assets/img/KHinIce.jpg
 description: about
 hero_image: /assets/img/KHinIce.jpg
 hero_height: is-large
