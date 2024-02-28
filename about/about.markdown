@@ -32,4 +32,4 @@ A colleague and friend suggested using [Jekyll](https://jekyllrb.com/docs/) and 
 
 I suppose this website is for anyone who reads English, German, or Norwegian and happens to want to know something about me. **But**, I created this website
  for myself as a fun side project. If someone enjoys what I share here, that's a bonus for me.
-<img class="image is-fullwidth is-cover is-rounded" style="height: 208px;" src="/../../assets/img/me" alt="A Picture of me">
+
