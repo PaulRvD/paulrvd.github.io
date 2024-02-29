@@ -17,5 +17,5 @@ items:
     description: in englisch, deutsch und norwegisch 
     icon: fa-comments
     call_to_action_name: Verstehe mehr
-    call_to_action_link: 
+    call_to_action_link: /about/de
     

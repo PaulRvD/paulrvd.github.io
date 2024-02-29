@@ -5,7 +5,7 @@ subtitle: Jeg er Paul
 permalink: /no
 image: /assets/img/Arbeitsfoto.jpg
 description: The pages meta description
-hero_image: 
+hero_image: /assets/img/header_pic.png
 hero_height: is-halfheight
 callouts: home_callouts_no
 lang: norsk

@@ -5,7 +5,7 @@ subtitle: Ich bin Paul
 permalink: /de
 image: /assets/img/Arbeitsfoto.jpg
 description: Deutsche Hauptseite
-hero_image: 
+hero_image: /assets/img/header_pic.png
 hero_height: is-halfheight
 callouts: home_callouts_de
 lang: de
