@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Hello!
-subtitle: I'm Paul
+subtitle: I am Paul
 permalink: /
 image: /assets/img/Arbeitsfoto.jpg
 description: Homepage
-hero_image: 
+hero_image: /assets/img/header_pic.png
 hero_height: is-halfheight
 callouts: home_callouts
 lang: en
