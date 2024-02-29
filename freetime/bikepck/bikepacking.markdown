@@ -10,7 +10,7 @@ hero_image: /assets/img/Bike.jpg
 hero_darken: true 
 lang: en
 ---
-#Cycling in Trøndelag
+# Cycling in Trøndelag
 
 I enjoy going on multi-day bike trips, exploring the landscapes around Trondheim. Always looking for a nice campe side. I also go on shorter trips.
 
