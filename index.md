@@ -10,6 +10,17 @@ hero_height: is-halfheight
 callouts: home_callouts
 lang: en
 ---
+<div style="display: flex; align-items: center; justify-content: space-between; background-color: #004d40; padding: 20px;">
+  <div>
+    <h1 style="color: white;">Hello!</h1>
+    <p style="color: white;">I am Paul</p>
+  </div>
+  <div>
+    <img src="/assets/img/Arbeitsfoto.jpg" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
+  </div>
+</div>
+
+---
 # Hello!
 
 If you found your way to this website you might already know that my name is Paul, and I am originally from northern Germany.
