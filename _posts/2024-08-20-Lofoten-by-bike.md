@@ -6,8 +6,5 @@ date: 2024-08-20 21:50:07
 author: Frieber
 tags: bike, travel  
 series: travel
-sidebar_images:
- -/assets/img/bike.jpg
- -/assets/img/me.jpg
 ---
 Lofoten more info coming
