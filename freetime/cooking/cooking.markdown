@@ -11,7 +11,7 @@ lang: en
 ---
 # Introduction
 I am by far no professional chef, nor do I intend to create a foodblog. However, I enjoy cooking and thought it is nice to create a page for some of the recepies I like. 
-The recepies aren't listed in any particular order for now, but I've put together a list of recepies that are available in English. I've also as provided links to recepies that are only available in one of the other languages at the moment.
+The recepies aren't listed in any particular order for now, but I've put together a list of recepies. Only those listed under english recepie are currently available in english. I've also as provided links to recepies that are vailable in one of the other languages below.
 ### English Recepies
  - [Empandas](/freetime/cooking/empanadas) - a recepie form my dads childhood
  - [Pastel de Choclo](/freetime/cooking/pastel-de-choclo) - also from my dads childhood

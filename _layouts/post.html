@@ -1,13 +1,19 @@
 ---
 layout: default
 ---
-<div class="content">
+<div class="content-wrapper">
+  </div><div class="content">
 
     <p>Published: {{ page.date | date: "%b %-d, %Y" }} by {{ page.author }}</p>
 
 
 
     {{ content }}
+  </div>
+  <aside class="sidebar">
+    {% include sidebar.html %}
+  </aside>
+
 <div class="tags">
     {% for tag in page.tags %}
       {% include tag.html tag=tag %}

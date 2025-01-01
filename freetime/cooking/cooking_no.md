@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page2
 title: Mat 
 subtitle: trying to make good food 
 permalink: /freetime/cooking/no

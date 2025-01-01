@@ -1,0 +1,9 @@
+{% if page.sidebar_images %}
+<div class="sidebar-gallery">
+  {% for image in page.sidebar_images %}
+    <img src="{{ image }}" alt="Sidebar Image">
+  {% endfor %}
+</div>
+{% else %}
+<p>No images available for this post.</p>
+{% endif %}
