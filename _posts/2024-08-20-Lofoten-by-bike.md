@@ -44,3 +44,22 @@ Waiting for the train to Bodø I am nervous, what if there is a problem with the
   </div>
 
 </div>
+
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <div style="flex: 1;">
+    <img src="/assets/img/blog/Lof2.jpeg" alt="Sheep on the side of the road." style="width: 100%; margin-bottom: 10px;">
+  </div>
+
+  <div style="flex: 3; padding-right: 20px;">
+    <h2>
+      Day 2 Getting to Rørvika
+    </h2>
+    <p>
+      This blog post is going to be continued, once I find the time. 
+    </p>
+  </div>
+
+
+
+</div>
