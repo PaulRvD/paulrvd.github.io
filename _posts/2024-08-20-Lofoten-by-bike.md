@@ -28,19 +28,19 @@ Some time later we booked the night train and the fun begun.
 Waiting for the train to Bodø I am nervous, what if there is a problem with the booking, *there was some confusion beforehand, but I already talked to costumer service and got the confirmation that it is all good now*, but northern lights eased the waiting at the station. Shortly after spotting them the train arrives and the conductur is expecting me with a bike, not us and our bikes, *so exactly what I talked to the customer service about*. After a bit of discussions they finally let us and the bikes on the train, I guess mostly to avoid further delay. 
 
 
-<div style="display: flex;align-items: flex-start; gap: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <div style="flex: 3; padding-right: 20px;">
     <h2>
       Day 1 Start from Moskenes
     </h2>
     <p>
-      After the night train and ferry to Moskenes the biking could start. Reflex on, bikes packed, ready to go. The day was a beautiful start of the trip, perfect weather, managable traffic, lots of fellow cyclist on the roads. With increasing distance from Moskenes the traffic slowly decreased and at times we were alone with the beautiful landscape and stunning views. 
+      After the night train and ferry to Moskenes, the biking could start. Reflex on, bikes packed, ready to go. The day was a beautiful start of the trip, perfect weather, manageable traffic, lots of fellow cyclists on the roads. With increasing distance from Moskenes, the traffic slowly decreased, and at times we were alone with the beautiful landscape and stunning views. 
     </p>
   </div>
 
   <div style="flex: 1;">
-    <img src="/assets/img/blog/Lof1.jpeg" alt="Bay near the first campside." style="width: 100%; margin-bottom: 10px;">
+    <img src="/assets/img/blog/Lof1.jpeg" alt="Bay near the first campsite." style="width: 100%; margin-bottom: 10px;">
   </div>
 
 </div>
