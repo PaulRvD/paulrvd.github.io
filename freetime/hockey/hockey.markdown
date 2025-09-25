@@ -38,18 +38,17 @@ Everyone is welcome to the trainings, from new beginners to hockey veterans.
 
 #### Indoor Season (October-March)
 
-- **Tuesday:** 21:00 to 23:00 in [Trondheim Spectrum hall F](https://goo.gl/maps/oJUkGGWkxnD8a7LV6)
-- **Friday:** 17:30 to 19:00 in [Trondheim Spectrum hall A](https://goo.gl/maps/oJUkGGWkxnD8a7LV6)
+- **Monday:** 21:00 to 23:00 in [Trondheim Spectrum hall A4](https://goo.gl/maps/oJUkGGWkxnD8a7LV6)
+- **Friday:** 16:30 to 18:30 in [Trondheim Spectrum hall A4](https://goo.gl/maps/oJUkGGWkxnD8a7LV6)
 
 We use [Spond](https://group.spond.com/YQDGM) to keep track of attendance and adjust the program accordingly. This is also where we inform about cancellations or special events.  
 Clubmembers can find the recent training sessions [here](/freetime/hockey/training), usally the last two or three sessions. 
 
 ## Trondheim Cup
 Yes, we organise a fieldhockey cup with our small club usally early in the indoor season but it depends on available halltimes. 
-Once I know details for the Trondheim Cup 2025, I will try to update them here. Until then maybe have a look at the blog post to [last years Cup](/2024/11/24/Trondheim-Cup/) with international participation.
-
+This year Trondheim Cup will take place in Trondheim Spektrum A4 on 22nd and 23rd of November
 # Hockey in Norway
-Other clubs in Norway are Sagene, Furuset, MASK, Oslo SK, Kringsjå SK (all Oslo) and Flaktveit IL (Bergen). 
+Other clubs in Norway are Sagene, Furuset, MASK, Oslo SK, Kringsjå SK (all Oslo) and Bergen landhockey (in Bergen). 
 These clubs are our closest partners, but also are...
 ## the competition
 I was surprised by the level of norwegian hockey when I first came here. 
