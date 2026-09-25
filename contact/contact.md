@@ -6,38 +6,15 @@ permalink: /contact/
 hero_height: is-small
 ---
 
----
-layout: default
-title: Contact — Dr. Paul Rübsamen-von Döhren
-permalink: /contact/
----
-
-<style>
-/* Circular profile image styling */
-.profile-image {
-  border-radius: 50%;
-  object-fit: cover;
-  width: 100%;
-  height: 100%;
-  border: 3px solid #647eff; /* Subtle purple accent matching your brand */
-  box-shadow: 0 4px 8px rgba(100, 126, 255, 0.15);
-}
-
-/* Ensure the container maintains square aspect ratio */
-.image.is-1by1 .profile-image {
-  padding-top: 100%; /* Maintains 1:1 ratio */
-}
-</style>
-
 <div class="container">
   <div class="columns is-vcentered">
-    <!-- Image Column (Square Container) -->
+    <!-- Image Column -->
     <div class="column is-4">
       <figure class="image is-1by1">
         <img 
           src="{{ '/assets/img/Def_img.jpeg' | relative_url }}" 
           alt="Dr. Paul Rübsamen-von Döhren"
-          class="profile-image"
+          style="border-radius: 50%; width: 100%;"
         >
       </figure>
     </div>
