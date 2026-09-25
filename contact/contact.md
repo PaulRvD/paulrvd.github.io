@@ -14,7 +14,7 @@ hero_height: is-small
         <img 
           src="{{ '/assets/img/Def_img.jpeg' | relative_url }}" 
           alt="Dr. Paul Rübsamen-von Döhren"
-          style="border-radius: 50%; width: 100%;"
+          style="width: 80px; height: 80px; object-fit: cover;border-radius: 50%;"
         >
       </figure>
     </div>
@@ -44,8 +44,33 @@ hero_height: is-small
         <div style="display: flex; align-items: center; gap: 0.5rem;">
           <span style="font-size: 1.5rem;">💼</span>
           <a href="https://linkedin.com/in/paulruebsamenvdoehren/" target="_blank"><strong>LinkedIn</strong></a>
-        </div>
-      </div>
+        </div> 
+	  </div>
+    </div>
+    <!-- About Paragraph -->
+    <div class="content mt-5">
+        <p>
+          I'm a doctoral researcher at the Norwegian University of Science and Technology (NTNU), 
+          specializing in sea spray ice formation and its implications for Arctic maritime operations. 
+          My work combines materials science with environmental physics, conducting field research 
+          in Northern Norway. Before moving to Trondheim in 2020, I completed my material science studies 
+          at the University of Göttingen, where I discovered my passion for interdisciplinary, 
+          research-driven science.
+        </p>
+        <p>
+          Outside the lab, I'm passionate about field hockey, biking, and spending time in nature 
+          at my family cabin in northern Germany. I'm fluent in English, German, and Norwegian, 
+          and welcome collaborations with industry partners in R&D, materials science, or Arctic engineering.
+        </p>
+    </div>
+	<!-- vCard & CV Section -->
+    <div class="mt-5" style="display: flex; gap: 1rem; align-items: center;">
+        <a href="{{ '/contact.vcf' | relative_url }}" class="button is-success" download>
+          📥 Download vCard
+        </a>
+        <a href="{{ '/files/CV_Paul_Ruobsamen_von_Dohren.pdf' | relative_url }}" class="button is-light" target="_blank">
+          📄 View Full CV
+        </a>
     </div>
   </div>
 </div>
