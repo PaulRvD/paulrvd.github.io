@@ -36,7 +36,7 @@ hero_height: is-small
         
         <!-- Phone -->
         <div style="display: flex; align-items: center; gap: 0.5rem;">
-          <span style="font-size: 1.5rem;">📱</span>
+          <span style="font-size: 1.5rem;">📞</span>
           <a href="tel:+4796623300"><strong>+47 96623300</strong></a>
         </div>
         
@@ -55,10 +55,9 @@ hero_height: is-small
       <div class="content">
         <h2 class="title is-3">About Me</h2>
         <p>
-          I'm a doctoral researcher at the Norwegian University of Science and Technology (NTNU), 
-          specializing in sea spray ice formation and its implications for Arctic maritime operations. 
-          My work combines materials science with environmental physics, conducting field research 
-          in Northern Norway. Before moving to Trondheim in 2020, I completed my material science studies 
+          I recently graduated from the Norwegian University of Science and Technology (NTNU), specializing in the implication of microstructural features on material properties. 
+          My work during my PhD combined materials science with environmental physics, conducting field research in the Arctic.
+		  Before moving to Trondheim in 2020, I completed my material science studies 
           at the University of Göttingen, where I discovered my passion for interdisciplinary, 
           research-driven science.
         </p>
@@ -67,6 +66,11 @@ hero_height: is-small
           and welcome collaborations with industry partners in R&D, materials science, or Arctic engineering.
         </p>
         
+		<p>
+          Please, find my digital buisness card (vCard) with my contact details below and have a look at my CV while you are here. 
+		  I am looking forward to connect. 
+        </p>
+		
         <!-- Download Buttons (Full Width) -->
         <div style="display: flex; gap: 1rem; align-items: center; margin-top: 2rem;">
           <a href="{{ '/contact.vcf' | relative_url }}" class="button is-success" download>
