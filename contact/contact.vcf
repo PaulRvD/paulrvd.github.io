@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Döhren;Rübsamen-von;Paul;Dr.;
+FN:Dr. Paul Rübsamen-von Döhren
+NICKNAME:Paul
+TITLE:Materials Scientist
+ORG:N/A
+EMAIL;TYPE=WORK,pref:paul@ruebsamen-vondoehren.eu
+TEL;TYPE=CELL:+47 96623300
+URL;TYPE=work:https://ruebsamen-vondoehren.eu/contact
+ADR;TYPE=HOME:;;Trøndelag;Norway;;7034;
+NOTE:Sea spray ice researcher. Materials Science background, University of Göttingen. Trilingual: English · Deutsch · Norsk. Open to industry R&D collaborations.
+LANGS:en;de;no
+CATEGORIES:Science;Engineering;Research;Materials Science
+REV:2026-01-01T00:00:00Z
+UID:unique-id-paul-rv-2026@ruebsamen-vondoehren.eu
+END:VCARD
