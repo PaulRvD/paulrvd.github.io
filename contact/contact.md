@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: page
 title: Contact — Dr. Paul Rübsamen-von Döhren
+subtitle: Materials Scientist · Sea Spray Ice Researcher at NTNU
 permalink: /contact/
+hero_image: /assets/img/header_pic.png
 bulma:
   classes:
     container: "max-w-4xl mx-auto px-6 py-8"
