@@ -14,7 +14,7 @@ hero_height: is-small
         <img 
           src="{{ '/assets/img/Def_img.jpeg' | relative_url }}" 
           alt="Dr. Paul Rübsamen-von Döhren"
-          style="width: 80px; height: 80px; object-fit: cover;border-radius: 50%;"
+          style="border-radius: 50%;"
         >
       </figure>
     </div>
