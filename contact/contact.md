@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact — Dr. Paul Rübsamen-von Döhren
-subtitle: Materials Scientist · Microstructural influences on material properties
+subtitle: 
 permalink: /contact/
 hero_height: is-small
 ---
@@ -9,12 +9,12 @@ hero_height: is-small
 <div class="container">
   <div class="columns is-vcentered">
     <!-- Image Column -->
-    <div class="column is-4">
+    <div class="column is-2">
       <figure class="image is-1by1">
         <img 
           src="{{ '/assets/img/Def_img.jpeg' | relative_url }}" 
           alt="Dr. Paul Rübsamen-von Döhren"
-          style="border-radius: 25%; width: 50%;"
+          style="border-radius: 50%; width: 100%;"
         >
       </figure>
     </div>
