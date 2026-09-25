@@ -73,7 +73,7 @@ hero_height: is-small
 		
         <!-- Download Buttons (Full Width) -->
         <div style="display: flex; gap: 1rem; align-items: center; margin-top: 2rem;">
-          <a href="{{ '/contact.vcf' | relative_url }}" class="button is-success" download>
+          <a href="{{ '/contact/contact.vcf' | relative_url }}" class="button is-success" download>
             📥 Download vCard
           </a>
           <a href="{{ '/../../assets/other/CV_Paul_Ruobsamen_von_Dohren.pdf' | relative_url }}" class="button is-light" target="_blank">
