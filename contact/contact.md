@@ -76,7 +76,7 @@ hero_height: is-small
           <a href="{{ '/contact.vcf' | relative_url }}" class="button is-success" download>
             📥 Download vCard
           </a>
-          <a href="{{ '/files/CV_Paul_Ruobsamen_von_Dohren.pdf' | relative_url }}" class="button is-light" target="_blank">
+          <a href="{{ '/../../assets/other/CV_Paul_Ruobsamen_von_Dohren.pdf' | relative_url }}" class="button is-light" target="_blank">
             📄 View Full CV
           </a>
         </div>
