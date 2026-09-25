@@ -14,7 +14,7 @@ bulma:
       <div class="column is-4">
         <figure class="image is-square">
           <img 
-            src="{{ '/images/headshot.jpg' | relative_url }}" 
+            src="{{ '/assets/img/header_pic.png' | relative_url }}" 
             alt="Dr. Paul Rübsamen-von Döhren"
             class="rounded-circle"
             style="width: 100%; height: 100%; object-fit: cover;"
