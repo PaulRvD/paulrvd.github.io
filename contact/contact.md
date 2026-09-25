@@ -14,7 +14,7 @@ hero_height: is-small
         <img 
           src="{{ '/assets/img/Def_img.jpeg' | relative_url }}" 
           alt="Dr. Paul Rübsamen-von Döhren"
-          style="border-radius: 50%; width: 100%;"
+          style="border-radius: 25%; width: 50%;"
         >
       </figure>
     </div>
@@ -37,13 +37,13 @@ hero_height: is-small
         <!-- Phone -->
         <div style="display: flex; align-items: center; gap: 0.5rem;">
           <span style="font-size: 1.5rem;">📱</span>
-          <a href="tel:+479XXXXXXX"><strong>+47 9XXXXXXX</strong></a>
+          <a href="tel:+4796623300"><strong>+47 96623300</strong></a>
         </div>
         
         <!-- LinkedIn -->
         <div style="display: flex; align-items: center; gap: 0.5rem;">
           <span style="font-size: 1.5rem;">💼</span>
-          <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank"><strong>LinkedIn</strong></a>
+          <a href="https://linkedin.com/in/paulruebsamenvdoehren/" target="_blank"><strong>LinkedIn</strong></a>
         </div>
       </div>
     </div>
