@@ -46,7 +46,7 @@ Clubmembers can find the recent training sessions [here](/freetime/hockey/traini
 
 ## Trondheim Cup
 Yes, we organise a fieldhockey cup with our small club usally early in the indoor season but it depends on available halltimes. 
-This year Trondheim Cup will take place in Trondheim Spektrum A4 on 22nd and 23rd of November.
+This year Trondheim Cup will take place in Trondheim Spektrum A4 on 14th and 15th of November.
 # Hockey in Norway
 Other clubs in Norway are Sagene, Furuset, MASK, Oslo SK, Kringsjå SK (all Oslo) and Bergen landhockey (in Bergen). 
 These clubs are our closest partners, but also are...
